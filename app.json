@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "FurniSure",
+    "slug": "furnisure-project-app",
+    "description": "CS 409 Project 2021",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/furnsure1.png",
+    "splash": {
+      "image": "./assets/furnsure1.png",
+      "resizeMode": "contain"
+      
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
